@@ -1,0 +1,9 @@
+{
+	"name": "IwonasFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83359d7c-b444-4b0b-8462-0e4b6eb59551",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
